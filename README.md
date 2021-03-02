@@ -25,7 +25,8 @@
 ### Languages and Tools:
 
 
-  <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png height=35px width=35px>
+<p>
+    <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png height=35px width=35px>
    <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png height=35px width=35px>
      <img src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png height=35px width=35px>
 
@@ -36,6 +37,7 @@
   <img src=https://cdn.iconscout.com/icon/free/png-512/figma-1693589-1442630.png height=35px width=35px>
     <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png height=35px width=35px>
      <img src=https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png height=35px width=35px>
+</p>
 <br />
 <br />
 
