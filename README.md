@@ -40,17 +40,20 @@
 </p>
 <br />
 <br />
-### Github Stats
 
+### Github Stats:
+<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img " src="https://github-readme-stats.vercel.app/api?username=neogmanish99&show_icons=true&theme=tokyonight" />
 </a>
+</div>                                                                                                                 
 <br>
 <br>
+<div>                                                                                                               
 <a href="https://github.com/anuraghazra/convoychat">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=neogmanish99&layout=compact&card_width=445&theme=" />
 </a>
-
+</div>
 ---
 
 
