@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning html,css,js ⚡
+- 🌱 I’m currently learning HTML,CSS,Java Script ⚡
 - 🥅 2021 Goals: learning wev-dev create some projects
 - ⚡ Fun fact: I love to talk too much with friends🤣
 - 📫 How to reach me **sanjuneog399@gmail.com**
