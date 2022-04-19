@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi, I'm Manish! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-<h3 align="center">I'm a computer student, learning web-dev!!</h3>
+<h1 align="center">Front End Developer (B.C.A Greaduate)!!</h1>
 
 
 
 
-- 🌱 I’m currently learning HTML,CSS,Java Script ⚡
-- 🥅 2021 Goals: learning wev-dev create some projects
+- 🌱 I’m currently a frontend developer ⚡
+- 🥅 My main goal is to become a fullstack developer to build better and cooler stuffs
 - ⚡ Fun fact: I love to talk too much with friends🤣
 - 📫 How to reach me **sanjuneog399@gmail.com**
 
