@@ -6,10 +6,10 @@
 
 
 
-<h3> 🌱 I’m currently a frontend developer ⚡ </h3>
-- 🥅 My main goal is to become a fullstack developer to build better and cooler stuffs
-- ⚡ Fun fact: I love to talk too much with friends🤣
-- 📫 How to reach me **sanjuneog399@gmail.com**
+<h3> - 🌱 I’m currently a frontend developer ⚡ </h3>
+<h3> - 🥅 My main goal is to become a fullstack developer to build better and cooler stuffs </h3>
+<h3> - ⚡ Fun fact: I love to talk too much with friends🤣 </h3>
+<h3> - 📫 How to reach me **sanjuneog399@gmail.com** </h3>
 
 
 
