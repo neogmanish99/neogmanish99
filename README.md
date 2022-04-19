@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently a frontend developer ⚡
+<h3> 🌱 I’m currently a frontend developer ⚡ </h3>
 - 🥅 My main goal is to become a fullstack developer to build better and cooler stuffs
 - ⚡ Fun fact: I love to talk too much with friends🤣
 - 📫 How to reach me **sanjuneog399@gmail.com**
