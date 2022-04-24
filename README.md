@@ -1,10 +1,11 @@
-Hi 👋 My name is Manish !!
-==========================
+<h1 align="center">Hi, I'm Manish! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-Front End Web Developer (B.C.A Graduate)
-----------------------------------------
+<h1 align="center">Front End Developer (B.C.A Greaduate)!!</h1>
 
-I’m currently a frontend developer - 🥅 My main goal is to become a full-stack developer to build better and cooler pieces of stuff - ⚡ Fun fact: I love to talk too much with friends🤣 - 📫 How to reach me \*\*sanjuneog399@gmail.com\*\*
+I’m currently a frontend developer
+<h3>- 🥅 My main goal is to become a full-stack developer to build better and cooler pieces of stuff</h3>
+<h3>- ⚡ Fun fact: I love to talk too much with friends🤣</h3>
+<h3>- 📫 How to reach me \*\*sanjuneog399@gmail.com\*\*</h3>
 
 * 🌍  I'm based in Jorhat, Assam
 * ✉️  You can contact me at [sanjuneog399@gmail.com](mailto:sanjuneog399@gmail.com)
