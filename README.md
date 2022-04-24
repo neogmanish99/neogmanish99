@@ -2,10 +2,10 @@
 
 <h1 align="center">Front End Developer (B.C.A Greaduate)!!</h1>
 
-I’m currently a frontend developer
+<h3>  I’m currently a frontend developer</h3>
 <h3>- 🥅 My main goal is to become a full-stack developer to build better and cooler pieces of stuff</h3>
 <h3>- ⚡ Fun fact: I love to talk too much with friends🤣</h3>
-<h3>- 📫 How to reach me \*\*sanjuneog399@gmail.com\*\*</h3>
+<h3>- 📫 How to reach me sanjuneog399@gmail.com </h3>
 
 * 🌍  I'm based in Jorhat, Assam
 * ✉️  You can contact me at [sanjuneog399@gmail.com](mailto:sanjuneog399@gmail.com)
