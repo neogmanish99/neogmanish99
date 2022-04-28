@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Manish! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 
-<h1 align="center">Front End Developer (B.C.A Greaduate)!!</h1>
+<h1 align="center">Front End Developer (B.C.A Graduate)!!</h1>
 
 <h3>  I’m currently a frontend developer</h3>
 <h3>- 🥅 My main goal is to become a full-stack developer to build better and cooler pieces of stuff</h3>
