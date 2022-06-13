@@ -1,4 +1,5 @@
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<br>
 <h1 align="center">Hi, I'm Manish!</h1>
 
 <h1 align="center">Front End Developer (B.C.A Graduate)!!</h1>
