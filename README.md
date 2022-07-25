@@ -1,6 +1,4 @@
-<p align="center">
-<a href="https://github.com/kogutstt2"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full Stack%20developer;Web%20Expert;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
+
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
