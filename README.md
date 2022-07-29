@@ -1,8 +1,4 @@
 
-
-<img align="right" alt="GIF" src="https://octodex.github.com/images/NUX_Octodex.gif" />
-
-
 <h1 align="center">Hi, I'm Manish!</h1>
 
 <h1 align="center">Front End Developer (B.C.A Graduate)!!</h1>
