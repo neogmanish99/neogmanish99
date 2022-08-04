@@ -1,4 +1,6 @@
-<img align="right" alt="GIF" src="https://octodex.github.com/images/NUX_Octodex.gif" />
+<div align="center">
+  <img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" width="400" height="200"/>
+</div>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <h1 align="center">Hi, I'm Manish!</h1>
 
