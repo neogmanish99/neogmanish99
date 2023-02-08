@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 <h1 align="center">Hi, I'm Manish!</h1>
 
-<h1 align="center">Front End Developer (B.C.A Graduate)!!</h1>
+<h1 align="center">Front End Developer!!</h1>
 
 <h3>  I’m currently a frontend developer</h3>
 <h3>- 📫 How to reach me sanjuneog399@gmail.com </h3>
