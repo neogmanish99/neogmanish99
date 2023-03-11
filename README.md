@@ -3,11 +3,10 @@
   <img src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp" width="400" height="200"/>
 </div> -->
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-<h1 align="center">Hi, I'm Manish!</h1>
+<!-- <h1 align="center">Hi, I'm Manish!</h1> -->
 
-<h1 align="center">Front End Developer!!</h1>
+<h1 align="center">Myself Manish!!, a junior full-stack developer eager to learn and passionate about creating innovative solutions.!!</h1>
 
-<h3>  I’m currently a Fullstack Developer/h3>
 <h3>- 📫 How to reach me sanjuneog399@gmail.com </h3>
 
 * 🌍  I'm based in Jorhat, Assam
