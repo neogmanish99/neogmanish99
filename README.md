@@ -7,7 +7,7 @@
 
 <h1 align="center">Front End Developer!!</h1>
 
-<h3>  I’m currently a frontend developer</h3>
+<h3>  I’m currently a Fullstack Developer/h3>
 <h3>- 📫 How to reach me sanjuneog399@gmail.com </h3>
 
 * 🌍  I'm based in Jorhat, Assam
