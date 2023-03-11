@@ -7,7 +7,7 @@
 
 <h1 align="center">Myself Manish!!, A Junior Full-Stack developer eager to learn and passionate about creating innovative solutions.!!</h1>
 
-<h3>- 📫 How to reach me sanjuneog399@gmail.com </h3>
+<!-- <h3>- 📫 How to reach me sanjuneog399@gmail.com </h3> -->
 
 * 🌍  I'm based in Jorhat, Assam
 * ✉️  You can contact me at [sanjuneog399@gmail.com](mailto:sanjuneog399@gmail.com)
