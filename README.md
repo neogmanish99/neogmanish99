@@ -6,7 +6,7 @@
 
 <!-- <h1 align="center">Hi, I'm Manish!</h1> -->
 
-<h1 align="center">Myself Manish!!, A Junior Full-Stack developer eager to learn and passionate about creating innovative solutions.!!</h1>
+<h1 align="center">Myself Manish!!, A Junior Front End Developer eager to learn and passionate about creating innovative solutions.!!</h1>
 
 <!-- <h3>- 📫 How to reach me sanjuneog399@gmail.com </h3> -->
 
